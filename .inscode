@@ -1,4 +1,4 @@
-run = "pnpm dev"
+run = "npm run dev"
 language = "node"
 
 [env]
